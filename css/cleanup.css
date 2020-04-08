@@ -1,2 +1,4 @@
 /* write your override styles here */
-img[alt="Kitty-5"]
+#wall .tag-1 {
+  display: none;
+}
